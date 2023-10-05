@@ -1,5 +1,5 @@
-## Hei velkommen til G9 gruppo i robotikk
-
+## Hei velkommen til G9 gruppen i robotikk
+denne gruppen er dedikert til å lage TidyBot roboten og finne en god struktur for det
 
 
 <!--
